@@ -1,0 +1,6 @@
+polars
+plotly
+scikit-learn
+nbformat
+numpy
+lightgbm
